@@ -1,6 +1,6 @@
-## Test Automation task
+# Test Automation task
 This is a test written for a website: http://automationpractice.com/index.php
-# I used
+## I used
 * Selenium
 * Kotlin
 * Page Object Model design pattern
